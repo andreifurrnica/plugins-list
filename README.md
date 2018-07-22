@@ -1,4 +1,4 @@
-##Enable module
+## Enable module
 `php bin/magento module:enable Andrei_PluginsList`
 
 ## Usage
